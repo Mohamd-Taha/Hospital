@@ -1,0 +1,40 @@
+D:\Private\clients\client\client\bin\Debug\client.exe.config
+D:\Private\clients\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\Private\clients\client\client\obj\Debug\client.Properties.Resources.resources
+D:\Private\clients\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\Private\clients\client\client\bin\Debug\client.exe
+D:\Private\clients\client\client\bin\Debug\client.pdb
+D:\Private\clients\client\client\obj\Debug\client.exe
+D:\Private\clients\client\client\obj\Debug\client.pdb
+D:\Private\clients\client\client\obj\Debug\client.PL.Client_Managment.resources
+D:\Private\clients\client\client\obj\Debug\client.PL.frm_config.resources
+D:\Private\clients\client\client\obj\Debug\client.PL.Getting_Start.resources
+D:\Private\clients\client\client\obj\Debug\client.PL.frm_login.resources
+D:\Clients\ver1\client\client\bin\Debug\client.exe.config
+D:\Clients\ver1\client\client\obj\Debug\client.exe
+D:\Clients\ver1\client\client\obj\Debug\client.pdb
+D:\Clients\ver1\client\client\bin\Debug\client.exe
+D:\Clients\ver1\client\client\bin\Debug\client.pdb
+D:\Clients\ver1\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\Clients\ver1\client\client\obj\Debug\client.PL.frm_config.resources
+D:\Clients\ver1\client\client\obj\Debug\client.PL.frm_login.resources
+D:\Clients\ver1\client\client\obj\Debug\client.PL.Getting_Start.resources
+D:\Clients\ver1\client\client\obj\Debug\client.Properties.Resources.resources
+D:\Clients\ver1\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\Clients\ver1\client\client\obj\Debug\client.PL.frm_Client_Managment.resources
+D:\Clients\ver1\client\client\obj\Debug\client.PL.frm_addClinet.resources
+E:\C++ PROJECTS\project hosplital\client\client\bin\Debug\client.exe.config
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.exe
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.pdb
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.PL.frm_addClinet.resources
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.PL.frm_add_user.resources
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.PL.frm_Client_Managment.resources
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.PL.frm_config.resources
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.PL.frm_login.resources
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.PL.Getting_Start.resources
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.Properties.Resources.resources
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+E:\C++ PROJECTS\project hosplital\client\client\bin\Debug\client.exe
+E:\C++ PROJECTS\project hosplital\client\client\bin\Debug\client.pdb
+E:\C++ PROJECTS\project hosplital\client\client\obj\Debug\client.PL.TEST_ONLY.resources
